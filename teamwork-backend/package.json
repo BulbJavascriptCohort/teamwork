@@ -1,0 +1,19 @@
+{
+  "name": "teamwork-backend",
+  "version": "1.0.0",
+  "description": "Teamwork is an ​internal social network for employees of an organization. The goal of this",
+  "main": "agues and promote team bonding.",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "team",
+    "work",
+    "network"
+  ],
+  "author": "Rabo Yusuf",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
